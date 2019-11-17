@@ -9,4 +9,5 @@ Webpack is configured for hot-reloading and built packages connect to this serve
 * [Ultimate Hot Reloading Example](https://github.com/glenjamin/ultimate-hot-reloading-example)
 * [Webpack Hot Middleware](https://github.com/webpack-contrib/webpack-hot-middleware)
 * [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware)
+* [react-hot-loader](https://github.com/gaearon/react-hot-loader)
  
